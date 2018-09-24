@@ -1,0 +1,10 @@
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\bin\Debug\PruebasPack.exe.config
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\bin\Debug\PruebasPack.exe
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\bin\Debug\PruebasPack.pdb
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\bin\Debug\MiPrimeraBiblioteca.dll
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\bin\Debug\MiPrimeraBiblioteca.pdb
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\obj\Debug\PruebasPack.csprojAssemblyReference.cache
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\obj\Debug\PruebasPack.csproj.CoreCompileInputs.cache
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\obj\Debug\PruebasPack.csproj.CopyComplete
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\obj\Debug\PruebasPack.exe
+C:\Users\Office Depot\source\repos\PruebasPack\PruebasPack\obj\Debug\PruebasPack.pdb

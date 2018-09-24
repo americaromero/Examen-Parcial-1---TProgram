@@ -1,0 +1,6 @@
+C:\Users\Office Depot\source\repos\MiPrimeraBiblioteca\MiPrimeraBiblioteca\obj\Debug\MiPrimeraBiblioteca.csprojAssemblyReference.cache
+C:\Users\Office Depot\source\repos\MiPrimeraBiblioteca\MiPrimeraBiblioteca\obj\Debug\MiPrimeraBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Office Depot\source\repos\MiPrimeraBiblioteca\MiPrimeraBiblioteca\bin\Debug\MiPrimeraBiblioteca.dll
+C:\Users\Office Depot\source\repos\MiPrimeraBiblioteca\MiPrimeraBiblioteca\bin\Debug\MiPrimeraBiblioteca.pdb
+C:\Users\Office Depot\source\repos\MiPrimeraBiblioteca\MiPrimeraBiblioteca\obj\Debug\MiPrimeraBiblioteca.dll
+C:\Users\Office Depot\source\repos\MiPrimeraBiblioteca\MiPrimeraBiblioteca\obj\Debug\MiPrimeraBiblioteca.pdb
